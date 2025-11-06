@@ -33,4 +33,6 @@
 - Relationships such as `participate`, `contributes`, and `working_at` indicate interactions between entities.  
 - `phrases` table stores campaign-specific promotional details.  
 
----
+## ER Diagram
+
+![ER Diagram](er_diagram.png)
