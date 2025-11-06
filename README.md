@@ -35,4 +35,4 @@
 
 ## ER Diagram
 
-![ER Diagram](er_diagram.png)
+![ER Diagram](ER diagram.png)
